@@ -1,4 +1,4 @@
-package myrand
+package rand
 
 import (
 	"crypto/rand"
